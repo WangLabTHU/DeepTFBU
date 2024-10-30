@@ -1,0 +1,11 @@
+numpy
+numba
+pyfaidx
+h5py
+matplotlib
+pandas
+tqdm
+scikit-learn
+Levenshtein
+seaborn==0.11
+umap-learn==0.5.4
