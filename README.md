@@ -414,7 +414,7 @@ Reference run time for this step: 2:50.71, 97% CPU-Util
     python analyse_weak_TFBS_feature.py
     ```
 Expected final output:
-<div align='center'><img align="middle" src="./code_for_analysis/weak_TFBS_feature/final_together_count_wilcox_0.001.png" width="50%" /><br></div>
+<div align='center'><img align="middle" src="./code_for_analysis/weak_TFBS_feature/final_together_count_wilcox.png" width="50%" /><br></div>
 Reference run time for this step: 0:05.98, 228% CPU-Util
 
 
